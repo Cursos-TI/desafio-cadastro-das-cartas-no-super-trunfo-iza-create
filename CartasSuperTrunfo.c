@@ -96,5 +96,7 @@ int main() {
     printf("PIB: %f \n", pib2);
     printf("Pontos turísticos: %d \n", turistico2);
 
+    //aaaaaaa
+
     return 0;
 }
